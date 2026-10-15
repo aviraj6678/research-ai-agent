@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+ollama
+requests
+beautifulsoup4
+ddgs
